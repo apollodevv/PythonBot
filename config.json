@@ -1,0 +1,14 @@
+{
+  "token": "",
+  "join_message": "Thanks for adding me! Learn more about me here: https://bot.apollodev.me/",
+  "owners": [
+    819608161468153910
+  ],
+  "prefix": [
+    "?"
+  ],
+  "activity": "games!",
+  "activity_type": "playing|watching|listening|competing",
+  "status_type": "online|idle|dnd",
+  "version": "2.0.2"
+}
