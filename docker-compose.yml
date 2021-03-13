@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  bot:
+    container_name: "PythonBot"
+    build: .
+    volumes:
+      - ./config.json:/pythonbot/config.json
